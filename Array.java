@@ -21,8 +21,6 @@ class ArrayX
 {
     public int Arr[];
 
-
-
     public void Accept(int iSize)
     {
         Arr = new int[iSize];
